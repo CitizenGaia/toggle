@@ -40,6 +40,7 @@
 
 .toggle-button {
     background: none;
+    left: -30px;
     border: none;
     cursor: pointer;
     transition: transform 0.3s;
